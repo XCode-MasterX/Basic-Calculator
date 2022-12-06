@@ -1,6 +1,6 @@
 # Basic-Calculator
 
-## The second largest heading
+## Made By
 ###Name: Arpan Dash <br>
 ###Regd. No: 2241004144 <br>
 ###Branch: CSE <br>
