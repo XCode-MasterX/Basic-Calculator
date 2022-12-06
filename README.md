@@ -1,9 +1,9 @@
 # Basic-Calculator
 
-Name: Arpan Dash
-Regd. No: 2241004144
-Branch: CSE
-1st Year
+###Name: Arpan Dash
+###Regd. No: 2241004144
+###Branch: CSE
+###1st Year
 
 Features:
 
