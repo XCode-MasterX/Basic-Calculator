@@ -8,3 +8,6 @@ Branch: CSE<br>
 Features:
 - Supports a graphical user interface made in Javax Swing.
 - Supports operations like: Division, Multiplication, Addition, Subtraction, Power, Modulus.
+
+## Image Demo of the Calculator running on my computer:
+![This is the demo image](https://myoctocat.com/assets/images/base-octocat.svg)
