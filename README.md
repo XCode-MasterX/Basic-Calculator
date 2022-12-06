@@ -7,5 +7,5 @@
 
 Features:
 
--- Supports a graphical user interface made in Javax Swing.
--- Supports operations like: Division, Multiplication, Addition, Subtraction, Power, Modulus.
+- Supports a graphical user interface made in Javax Swing.
+- Supports operations like: Division, Multiplication, Addition, Subtraction, Power, Modulus.
