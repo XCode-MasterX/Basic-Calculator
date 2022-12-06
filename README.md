@@ -1,9 +1,9 @@
 # Basic-Calculator
 
-Name: Arpan Dash
-Regd. No: 2241004144
-Branch: CSE
-1st Year
+Name: Arpan Dash<br>
+Regd. No: 2241004144<br>
+Branch: CSE<br>
+1st Year<br>
 
 Features:
 - Supports a graphical user interface made in Javax Swing.
