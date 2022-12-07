@@ -10,4 +10,4 @@ Features:
 - Supports operations like: Division, Multiplication, Addition, Subtraction, Power, Modulus.
 
 ## Image Demo of the Calculator running on my computer:
-![This is the demo image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is the demo image](Equation.PNG)
