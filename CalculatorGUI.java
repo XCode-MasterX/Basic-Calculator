@@ -80,6 +80,7 @@ public class CalculatorGUI extends JFrame
         this.setResizable(false);
         this.setBackground(new java.awt.Color(10, 10, 10));
         this.add(textField);
+        this.setTitle("Basic Calculator");
         this.addWindowListener(new WindowAdapter() {
             public void windowOpened(WindowEvent e)
             {
@@ -457,6 +458,7 @@ class HistoryVisualizer extends JFrame
         this.setBounds(0, 0, WIDTH, HEIGHT);
         this.setLayout(null);
         this.setBackground(new java.awt.Color(10, 10, 10));
+        this.setTitle("History");
         this.addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowClosing(WindowEvent e) {
                 makeInvisible();
@@ -488,7 +490,7 @@ class HistoryVisualizer extends JFrame
                 resultLabel.setOpaque(true);
                 resultLabel.setBorder(BorderFactory.createLineBorder(Color.BLACK, 3, true));
                 resultLabel.setBounds(200 , y, LABEL_WIDTH, LABEL_HEIGHT);
-                resultLabel.setFont(new Font("Consolas", Font.PLAIN, 28));
+                resultLabel.setFont(new Font("Conoslas", Font.PLAIN, 28));
                 resultLabel.addMouseListener(new MouseAdapter() {
                     public void mouseClicked(MouseEvent e)
                     {
