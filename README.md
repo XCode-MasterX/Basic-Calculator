@@ -10,4 +10,4 @@ Features:
 - Supports operations like: Division, Multiplication, Addition, Subtraction, Power, Modulus.
 
 ## Image Demo of the Calculator running on my computer:
-![Equation.PNG](https://github.com/XCode-MasterX/Basic-Calculator/blob/main/Equation.PNG?raw=true)
+![Equation.PNG](https://raw.githubusercontent.com/XCode-MasterX/Basic-Calculator/blob/main/Equation.PNG?raw=true)
