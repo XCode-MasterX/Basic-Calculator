@@ -191,8 +191,8 @@ public class CalculatorGUI extends JFrame
                         if(lastPress.size() > 0){
                             int size = lastPress.size() - 1;
                             System.out.println(lastPress.get(size));
-                            if(text.length > 0) textField.setText(text.substring(0, text.length() - lastPress.get(size).length())); 
-                            else if(text.length == 0) lastPress.clear();
+                            if(text.length() > 0) textField.setText(text.substring(0, text.length() - lastPress.get(size).length())); 
+                            else if(text.length() == 0) lastPress.clear();
                             lastPress.remove(size);
                         }
                     }
@@ -481,14 +481,14 @@ class HistoryVisualizer extends JFrame
                 equationLabel.setForeground(new Color(0xffffff));
                 equationLabel.setBorder(BorderFactory.createMatteBorder(0, 0, 0, 3, new Color(0x1d3a69)));
                 equationLabel.setBounds(0, y, LABEL_WIDTH, LABEL_HEIGHT);
-                equationLabel.setFont(new Font("Algerian", Font.PLAIN, 20));
+                equationLabel.setFont(new Font("Consolas", Font.PLAIN, 28));
 
                 resultLabel.setBackground(new Color(0x1d3a69));
                 resultLabel.setForeground(new Color(0xffffff));
                 resultLabel.setOpaque(true);
                 resultLabel.setBorder(BorderFactory.createLineBorder(Color.BLACK, 3, true));
                 resultLabel.setBounds(200 , y, LABEL_WIDTH, LABEL_HEIGHT);
-                resultLabel.setFont(new Font("Algerian", Font.PLAIN, 20));
+                resultLabel.setFont(new Font("Consolas", Font.PLAIN, 28));
                 resultLabel.addMouseListener(new MouseAdapter() {
                     public void mouseClicked(MouseEvent e)
                     {
