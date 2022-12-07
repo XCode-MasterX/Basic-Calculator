@@ -3,7 +3,7 @@
 Name: Arpan Dash<br>
 Regd. No: 2241004144<br>
 Github Username: XCode-MasterX<br>
-Telegram: Arpan Dash, (@arp_code)<br>
+Telegram: Arpan Dash (@arp_code)<br>
 Branch: CSE<br>
 1st Year<br>
 
